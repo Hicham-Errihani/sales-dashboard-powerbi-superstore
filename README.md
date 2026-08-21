@@ -123,7 +123,7 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-Copyright © 2026 Hicham ERRIHANI. Tous droits réservés.
+Copyright © 2019 Hicham ERRIHANI. Tous droits réservés.
 
 ## 👨‍💻 Réalisé par
 
