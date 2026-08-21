@@ -136,4 +136,4 @@ Business Intelligence Developer & Data Analyst
 
 ---
 
-⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile sur GitHub !
+
